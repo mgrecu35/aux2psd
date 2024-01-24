@@ -1,5 +1,5 @@
 # aux2psd
-read SBM auxiliary files
+This code reads the WRF SBM auxiliary files and convert them to PSD related variables.
 
 To compile the fortran conversion files, one needs to:
 * gfortran -c -fPIC readSBM.f90
